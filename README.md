@@ -1,6 +1,6 @@
-Enescu Maria 321CA
+Enescu Maria
 
-# Tema 4 Protocoale de Comunicatie. Client web. Comunicatie cu REST API.
+# Client web. Comunicatie cu REST API.
 
 In realizarea temei am folosit integral scheletul cu implementarea din
 `laboratorul 9` careia i-am adaugat: 
